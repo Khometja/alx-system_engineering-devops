@@ -1,2 +1,2 @@
 #!/bin/bash
-ile /tmp/my_first_directory/tmp/my_first_directory
+/tmp/my_first_directory: directory
